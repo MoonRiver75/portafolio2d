@@ -13,6 +13,7 @@ export const dialogueData = {
     impac:'He tenido un par de certificaciones en distintos momentos puedes checar mi <a href="https://www.linkedin.com/in/roldan-madero/" target="_blank">Linkedin</a>',
     uy:'Pronto se haran mas cositas por aqui ........',
     vini: 'Ella es Vinitra Heart la draga mas famosa de Tepic, ya esta descansando y nunca va a volver a presentarse pero la quiero mucho <3 ',
+    refri:'Bienvenido a mi fantasia para conocer mas sobre tu personas favorita Roldan Madero, tomate una kombucha, relajate y espero que disfrutes <3',
     exit: `Que te vaya bien hermoso ser.`,
     
   };
