@@ -21,7 +21,6 @@ Características del Demo:
     Diseño inspirado en videojuegos: Aunque no tiene niveles completos, el diseño está inspirado en los clásicos juegos de plataformas.
 
 Tecnologías Utilizadas
-![Screenshot from 2025-03-23 14-29-35](https://github.com/user-attachments/assets/e58445e7-054d-444c-9ee0-263ea7ad6934)
 
 
 
@@ -29,4 +28,8 @@ Tecnologías Utilizadas
 
     JavaScript: Lenguaje principal para la lógica del juego.
 
-    HTML y CSS: Integración del demo en una página we
+    HTML y CSS: Integración del demo en una página web
+
+![Screenshot from 2025-03-23 14-28-25](https://github.com/user-attachments/assets/c4ea0944-69b1-46e5-9420-93c70dd756b5)
+
+    
